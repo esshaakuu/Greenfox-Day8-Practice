@@ -1,0 +1,27 @@
+div {
+    border: 2px solid #4285F4;
+    display:flex;
+    width: 750px;
+    margin: auto;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    justify-content: center;
+    
+    
+}
+
+p {
+    height: 50px;
+    width: 50px;
+    background: #4285F4;
+    margin: 10px;
+}
+
+.orange-bg {
+    background:#FF6347;
+}
+
+.orange-bg .purple {
+    background: #643579;
+}

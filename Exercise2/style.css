@@ -1,0 +1,26 @@
+h1 {
+    margin-top:0;
+}
+
+p{
+    width: 300px;
+    padding: 20px;
+    font-size: 18px;
+}
+
+.first {
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    margin: 0;
+}
+
+.inside {
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    margin: 0;
+}
+
+p:hover {
+    background: #EA6942;
+}
